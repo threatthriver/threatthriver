@@ -1,31 +1,371 @@
-# 💫 About Me:
-🔭 I’m currently working on SenderWire (Building the future of AI Social Media)<br><br>👯 I’m looking to collaborate on Innovative open-source generative AI Projects<br><br>🤝 I’m looking for help with Scaling AI Inference & GPU Optimisation<br><br>🌱 I’m currently learning Model Context Protocol (MCP) & Multi-Agent Orchestration<br><br>💬 Ask me about Generative AI, Building Startups, Python, & Next.js<br><br>⚡ Fun fact: I founded my own AI startup at 18!
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FAF4F7,45:F0F4FF,75:F1FAF5,100:FFF8EE&height=190&section=header&text=Aniket%20Kumar&fontSize=46&fontColor=303044&fontAlignY=42&desc=AI%20Systems%20%2F%20Founder%20%2F%20Researcher&descSize=16&descColor=77778C&descAlignY=62" width="100%"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/threatthriver) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-kumar-59764025b/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@threatthriver) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AniketKuma17903) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniket@senderwire.com) 
+<br/>
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=threatthriver&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=threatthriver&theme=aura_dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=threatthriver&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github.com/threatthriver.png" width="108" alt="Aniket Kumar"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=threatthriver&theme=calm_pink&no-frame=true&no-bg=true&margin-w=4)
+<br/><br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<h1>Building what shouldn't exist yet.</h1>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=threatthriver&limit=5&theme=rose_pine&combine_all_yearly_contributions=true)
+<p>
+AI systems · intelligent products · research experiments · infrastructure
+</p>
+
+<br/>
+
+<a href="https://github.com/threatthriver">
+<img src="https://img.shields.io/badge/GitHub-2E2E38?style=flat-square&logo=github&logoColor=FFFFFF"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/aniket-kumar-59764025b/">
+<img src="https://img.shields.io/badge/LinkedIn-6D8FD6?style=flat-square&logo=linkedin&logoColor=FFFFFF"/>
+</a>
+&nbsp;
+<a href="https://x.com/AniketKuma17903">
+<img src="https://img.shields.io/badge/X-34343D?style=flat-square&logo=x&logoColor=FFFFFF"/>
+</a>
+&nbsp;
+<a href="https://huggingface.co/Threatthriver">
+<img src="https://img.shields.io/badge/Hugging%20Face-F1C86B?style=flat-square&logo=huggingface&logoColor=3B3120"/>
+</a>
+&nbsp;
+<a href="mailto:aniket@senderwire.com">
+<img src="https://img.shields.io/badge/Email-83BFA3?style=flat-square&logo=gmail&logoColor=FFFFFF"/>
+</a>
+
+</div>
+
+<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=threatthriver&icon=0&color=2)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/threatthriver) 
+<div align="center">
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ✦ About
+
+</div>
+
+<table width="100%">
+<tr>
+
+<td width="58%" valign="top">
+
+### I build across the stack.
+
+I'm interested in the space between **research and real products**.
+
+I experiment with language models, build AI-native applications, design infrastructure, and turn ideas into working systems.
+
+My approach is simple:
+
+> **Understand → Build → Experiment → Measure → Repeat**
+
+I care less about following the standard path and more about discovering what happens when you build something from first principles.
+
+</td>
+
+<td width="42%" valign="top">
+
+### Current focus
+
+`AI Systems`
+
+`LLM Research`
+
+`AI Agents`
+
+`Developer Infrastructure`
+
+`Applied Intelligence`
+
+`Experimental Products`
+
+<br/>
+
+<sub>Currently building two ventures.</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+---
+
+<div align="center">
+
+## ⌁ Things I'm Building
+
+</div>
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🌸 SenderWire
+
+<b>AI-native social infrastructure.</b>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Social%20%2B%20AI-FFE6EF?style=flat-square&labelColor=FFE6EF&color=55566B"/>
+<img src="https://img.shields.io/badge/Agents-EAF0FF?style=flat-square&labelColor=EAF0FF&color=55566B"/>
+<img src="https://img.shields.io/badge/Infrastructure-EAF8F0?style=flat-square&labelColor=EAF8F0&color=55566B"/>
+
+<br/><br/>
+
+A platform evolving from webhook infrastructure into an AI-native social experience with user-controlled feeds, messaging and intelligent interaction.
+
+<br/><br/>
+
+<a href="https://senderwire.com">
+<img src="https://img.shields.io/badge/Explore%20SenderWire-303044?style=flat-square&logoColor=FFFFFF"/>
+</a>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🛰️ Oxpid
+
+<b>AI for planetary intelligence.</b>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Satellite%20AI-E8F7EF?style=flat-square&labelColor=E8F7EF&color=3E5148"/>
+<img src="https://img.shields.io/badge/Climate-EFF3FF?style=flat-square&labelColor=EFF3FF&color=4D5670"/>
+<img src="https://img.shields.io/badge/Research-FFF3D8?style=flat-square&labelColor=FFF3D8&color=665538"/>
+
+<br/><br/>
+
+A research platform applying satellite imagery and machine learning to environmental monitoring, flood detection and climate-linked intelligence.
+
+<br/><br/>
+
+<a href="https://oxpid.in">
+<img src="https://img.shields.io/badge/Explore%20Oxpid-303044?style=flat-square&logoColor=FFFFFF"/>
+</a>
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+---
+
+<div align="center">
+
+## ◌ Research
+
+<p><i>Curiosity is the product.</i></p>
+
+</div>
+
+<table width="100%">
+<tr>
+
+<td width="25%" align="center">
+
+### 01
+
+**LLMs**
+
+Small models
+Fine-tuning
+Inference
+Architecture
+
+</td>
+
+<td width="25%" align="center">
+
+### 02
+
+**Model Behavior**
+
+Grokking
+Task arithmetic
+Hallucination
+Representation
+
+</td>
+
+<td width="25%" align="center">
+
+### 03
+
+**Applied AI**
+
+Satellite data
+Environmental intelligence
+Agents
+AI products
+
+</td>
+
+<td width="25%" align="center">
+
+### 04
+
+**Systems**
+
+APIs
+Infrastructure
+Distributed systems
+Developer tools
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+---
+
+<div align="center">
+
+## ✧ Selected Work
+
+</div>
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+### 🪶 SenderWire
+
+AI-native social infrastructure.
+
+`AI` · `Social` · `Infrastructure`
+
+<a href="https://senderwire.com">senderwire.com →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛰️ Oxpid
+
+Satellite intelligence and AI research.
+
+`Satellite` · `ML` · `Climate`
+
+<a href="https://oxpid.in">oxpid.in →</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌸 Qwen3-0.6B LoRA
+
+Experimental LoRA fine-tuning project built around Qwen3-0.6B.
+
+`PyTorch` · `LoRA` · `Hugging Face`
+
+<a href="https://huggingface.co/Threatthriver/qwen3-0.6b-alpaca-lora">
+model →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📚 Research Archive
+
+Experiments across model behavior, fine-tuning and emerging AI techniques.
+
+`Experiments` · `Research` · `Prototypes`
+
+<a href="https://github.com/threatthriver?tab=repositories">
+explore →</a>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+---
+
+<div align="center">
+
+## ◎ Stack
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,typescript,javascript,nodejs,react,nextjs,postgres,docker,aws,linux,git,github&theme=light&perline=7"/>
+
+<br/><br/>
+
+<sub>
+
+<strong>AI</strong> · PyTorch · Transformers · LoRA · Hugging Face
+
+  •  
+
+<strong>Web</strong> · React · Next.js · TypeScript
+
+  •  
+
+<strong>Backend</strong> · Node.js · Express · PostgreSQL
+
+  •  
+
+<strong>Infra</strong> · AWS · Docker · Linux
+
+</sub>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## ◍ GitHub
+
+<br/>
+
+<img src="https://github-stats-extended.vercel.app/api?username=Threatthriver&show_icons=true&hide_border=true&count_private=true&title_color=404056&text_color=77778C&icon_color=B893C7&bg_color=FCF9FB" height="165"/>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Threatthriver&layout=compact&hide_border=true&title_color=404056&text_color=77778C&bg_color=FCF9FB" height="165"/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F1FAF5,50:F0F4FF,100:FAF4F7&height=130&section=footer&text=Build.%20Experiment.%20Ship.&fontSize=24&fontColor=49495D&fontAlignY=52" width="100%"/>
+
+<br/>
+
+<sub>Independent builder · AI systems · Research · Products</sub>
+
+<br/><br/>
+
+</div>
