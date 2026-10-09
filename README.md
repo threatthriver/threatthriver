@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://github.com/threatthriver.png" width="100" alt="Aniket Kumar"/>
+<img src="https://github.com/threatthriver.png" width="96" alt="Aniket Kumar"/>
 
-# Aniket Kumar
+### ◇ ANIKET KUMAR
 
-**Building what shouldn't exist yet.**
+# Building what shouldn't exist yet.
 
-AI systems · LLM research · developer infrastructure
+<samp>AI SYSTEMS&nbsp;&nbsp;·&nbsp;&nbsp;LLM RESEARCH&nbsp;&nbsp;·&nbsp;&nbsp;DEVELOPER INFRASTRUCTURE</samp>
+
+<br/>
 
 <a href="https://github.com/threatthriver"><img src="https://img.shields.io/badge/GitHub-2E2E38?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://linkedin.com/in/aniket-kumar-59764025b/"><img src="https://img.shields.io/badge/LinkedIn-6D8FD6?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -16,57 +18,116 @@ AI systems · LLM research · developer infrastructure
 
 </div>
 
----
-
-## About
-
-I work in the space between research and real products. I experiment with language models, build AI-native applications, and turn ideas into working systems.
-
-My approach: **Understand → Build → Experiment → Measure → Repeat.**
-
-Currently building two ventures.
+<br/>
 
 ---
 
-## Building
+<samp>01 &nbsp;—&nbsp; ABOUT</samp>
 
-### SenderWire — [senderwire.com](https://senderwire.com)
+## I build in the space between research and real products.
+
+I experiment with language models, build AI-native applications, and turn ideas into working systems. Less interested in the standard path, more in what happens when you build from first principles.
+
+> **Understand → Build → Experiment → Measure → Repeat.**
+
+<sub>Currently building two ventures.</sub>
+
+<br/>
+
+---
+
+<samp>02 &nbsp;—&nbsp; BUILDING</samp>
+
+## Two ventures, one argument: build the useful thing.
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### ✦ SenderWire
+
+<samp>CLOUD · GPUS · INFRASTRUCTURE</samp>
 
 Cloud infrastructure built for startups. Compute, on-demand GPUs, managed Postgres, and S3-compatible object storage with simple, pay-as-you-go pricing.
 
-`Cloud` · `GPUs` · `Infrastructure`
+<a href="https://senderwire.com">senderwire.com ↗</a>
 
-### OXPID — [oxpid.in](https://oxpid.in)
+</td>
+<td width="50%" valign="top">
 
-Small models, tuned in the open. We fine-tune open-weight models for narrow, real tasks, then publish the runs, adapters, and evals for the whole community to use and rerun.
+### ✦ OXPID
 
-`LLMs` · `LoRA` · `Open Research`
+<samp>LLMS · LORA · OPEN RESEARCH</samp>
+
+Small models, tuned in the open. Fine-tuned open-weight models for narrow, real tasks, with the runs, adapters, and evals published for the whole community to rerun.
+
+<a href="https://oxpid.in">oxpid.in ↗</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-## Selected Work
+<samp>03 &nbsp;—&nbsp; SELECTED WORK</samp>
 
-- **[Qwen3-0.6B LoRA](https://huggingface.co/Threatthriver/qwen3-0.6b-alpaca-lora)** — Experimental LoRA fine-tuning on Qwen3-0.6B. `PyTorch` · `LoRA`
-- **[Research Archive](https://github.com/threatthriver?tab=repositories)** — Experiments across model behavior, fine-tuning, and emerging AI techniques.
+## Experiments worth keeping around.
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🪶 Qwen3-0.6B LoRA
+
+<samp>PYTORCH · LORA · HUGGING FACE</samp>
+
+Experimental LoRA fine-tuning built around Qwen3-0.6B.
+
+<a href="https://huggingface.co/Threatthriver/qwen3-0.6b-alpaca-lora">model ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Research Archive
+
+<samp>EXPERIMENTS · RESEARCH · PROTOTYPES</samp>
+
+Work across model behavior, fine-tuning, and emerging AI techniques.
+
+<a href="https://github.com/threatthriver?tab=repositories">explore ↗</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-## Stack
+<samp>04 &nbsp;—&nbsp; STACK</samp>
 
-<div align="center">
+## The tools, kept deliberately small.
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,typescript,nodejs,react,nextjs,postgres,docker,aws,linux,git&theme=light&perline=11"/>
 
-</div>
+<table width="100%">
+<tr>
+<td width="25%" valign="top"><samp>AI</samp><br/>PyTorch<br/>Transformers<br/>LoRA<br/>Hugging Face</td>
+<td width="25%" valign="top"><samp>WEB</samp><br/>React<br/>Next.js<br/>TypeScript</td>
+<td width="25%" valign="top"><samp>BACKEND</samp><br/>Node.js<br/>PostgreSQL</td>
+<td width="25%" valign="top"><samp>INFRA</samp><br/>AWS<br/>Docker<br/>Linux</td>
+</tr>
+</table>
 
-**AI** PyTorch · Transformers · LoRA · Hugging Face
-**Web** React · Next.js · TypeScript
-**Backend** Node.js · PostgreSQL
-**Infra** AWS · Docker · Linux
+<br/>
 
 ---
 
-## GitHub
+<samp>05 &nbsp;—&nbsp; GITHUB</samp>
+
+## The numbers, published openly.
 
 <div align="center">
 
@@ -94,10 +155,14 @@ Small models, tuned in the open. We fine-tune open-weight models for narrow, rea
 
 </div>
 
+<br/>
+
 ---
 
 <div align="center">
 
-<sub>Build. Experiment. Ship.</sub>
+<samp>BUILD. &nbsp; EXPERIMENT. &nbsp; SHIP.</samp>
+
+<sub>Independent builder · AI systems · Research · Products</sub>
 
 </div>
