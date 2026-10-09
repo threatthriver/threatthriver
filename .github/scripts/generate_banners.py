@@ -1,20 +1,16 @@
 #!/usr/bin/env python3
-"""Generate OXPID-style SVG banners for the profile README.
+"""Generate the OXPID-style hero banner for the profile README.
 
-GitHub strips <style>/class from README HTML, but serves SVG images with
-full styling intact. So all real typography (letterspacing, weights,
-custom layout) lives here, in SVGs, and the README just references them.
+GitHub strips CSS from README HTML but serves SVG images with full
+styling, so the hero's typography (letterspacing, weights, gradient)
+lives here. Section titles use colored math text in the README itself.
 
-Outputs:
-  assets/hero.svg          - top hero banner
-  assets/section-*.svg     - numbered editorial section titles
-
+Output: assets/hero.svg
 Pure stdlib, no network. Run: python3 .github/scripts/generate_banners.py
 """
 import os
 
-# ---- Theme (OXPID-inspired, warm off-white + ink + purple) ----
-BG = "#FCF9FB"
+# Theme (OXPID-inspired, warm off-white + ink + purple)
 INK = "#2E2E38"
 SUB = "#8A8A9C"
 ACCENT = "#B893C7"
@@ -27,24 +23,9 @@ MONO = "'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace"
 ASSETS = "assets"
 
 
-def esc(s: str) -> str:
-    return (
-        s.replace("&", "&amp;")
-        .replace("<", "&lt;")
-        .replace(">", "&gt;")
-    )
-
-
-def write(name: str, svg: str) -> None:
-    os.makedirs(ASSETS, exist_ok=True)
-    with open(os.path.join(ASSETS, name), "w") as f:
-        f.write(svg)
-    print("wrote", os.path.join(ASSETS, name))
-
-
 def hero() -> str:
     W, H = 900, 260
-    return f"""<svg width="{W}" height="{H}" viewBox="0 0 {W} {H}" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Aniket Kumar — building what shouldn't exist yet">
+    return f"""<svg width="{W}" height="{H}" viewBox="0 0 {W} {H}" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Aniket Kumar. Building what shouldn't exist yet.">
 <defs>
 <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
 <stop offset="0" stop-color="#FAF4F7"/>
@@ -63,36 +44,12 @@ def hero() -> str:
 </svg>"""
 
 
-def section(num: str, label: str, headline: str) -> str:
-    W, H = 900, 118
-    return f"""<svg width="{W}" height="{H}" viewBox="0 0 {W} {H}" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="{esc(num)} - {esc(label)}: {esc(headline)}">
-<rect width="{W}" height="{H}" fill="{BG}"/>
-<text x="2" y="26" font-family="{MONO}" font-size="12" letter-spacing="3" fill="{ACCENT}">{esc(num)}</text>
-<line x1="40" y1="22" x2="78" y2="22" stroke="{LINE}" stroke-width="1.5"/>
-<text x="92" y="26" font-family="{MONO}" font-size="12" letter-spacing="3" fill="{SUB}">{esc(label)}</text>
-<text x="0" y="78" font-family="{FONT}" font-weight="700" font-size="34" letter-spacing="-0.8" fill="{INK}">{esc(headline)}</text>
-<line x1="2" y1="104" x2="{W-2}" y2="104" stroke="{LINE}"/>
-</svg>"""
-
-
-def footer() -> str:
-    W, H = 900, 90
-    return f"""<svg width="{W}" height="{H}" viewBox="0 0 {W} {H}" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Build. Experiment. Ship.">
-<rect width="{W}" height="{H}" fill="{BG}"/>
-<line x1="2" y1="2" x2="{W-2}" y2="2" stroke="{LINE}"/>
-<text x="{W/2}" y="44" text-anchor="middle" font-family="{MONO}" font-size="14" letter-spacing="6" fill="{INK}">BUILD. &#160; EXPERIMENT. &#160; SHIP.</text>
-<text x="{W/2}" y="70" text-anchor="middle" font-family="{MONO}" font-size="10" letter-spacing="2" fill="{SUB}">INDEPENDENT BUILDER &#183; AI SYSTEMS &#183; RESEARCH &#183; PRODUCTS</text>
-</svg>"""
-
-
 def main():
-    write("hero.svg", hero())
-    write("section-about.svg", section("01", "ABOUT", "I build between research and real products."))
-    write("section-building.svg", section("02", "BUILDING", "Two ventures. One argument: build the useful thing."))
-    write("section-work.svg", section("03", "SELECTED WORK", "Experiments worth keeping around."))
-    write("section-stack.svg", section("04", "STACK", "The tools, kept deliberately small."))
-    write("section-github.svg", section("05", "GITHUB", "The numbers, published openly."))
-    write("footer.svg", footer())
+    os.makedirs(ASSETS, exist_ok=True)
+    path = os.path.join(ASSETS, "hero.svg")
+    with open(path, "w") as f:
+        f.write(hero())
+    print("wrote", path)
 
 
 if __name__ == "__main__":
