@@ -76,7 +76,7 @@ Small models, tuned in the open. We fine-tune open-weight models for narrow, rea
 <br/>
 
 <!-- Stats + top languages -->
-<img src="https://github-readme-stats.vercel.app/api?username=Threatthriver&show_icons=true&hide_border=true&count_private=true&title_color=404056&text_color=77778C&icon_color=B893C7&bg_color=FCF9FB" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Threatthriver&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=404056&text_color=77778C&icon_color=B893C7&bg_color=FCF9FB" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Threatthriver&layout=compact&hide_border=true&title_color=404056&text_color=77778C&bg_color=FCF9FB" height="165"/>
 
 <br/><br/>
