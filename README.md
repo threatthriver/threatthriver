@@ -21,3 +21,10 @@ I experiment with language models, build AI-native applications, and turn ideas 
 ## Stack
 
 Python · PyTorch · TypeScript · Node.js · React · Next.js · PostgreSQL · Docker · AWS · Linux
+
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/threatthriver/threatthriver/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/threatthriver/threatthriver/output/snake.svg" alt="Snake eating the contribution graph" width="100%" />
+</picture>
