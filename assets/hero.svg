@@ -1,0 +1,17 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Aniket Kumar — building what shouldn't exist yet">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#FAF4F7"/>
+<stop offset="0.5" stop-color="#F0F4FF"/>
+<stop offset="1" stop-color="#F1FAF5"/>
+</linearGradient>
+</defs>
+<rect x="0.5" y="0.5" width="899" height="259" rx="16" fill="url(#g)" stroke="#E6E1EC"/>
+<text x="56" y="70" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" letter-spacing="4" fill="#8A8A9C">&#9671; ANIKET KUMAR</text>
+<text x="54" y="140" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="52" letter-spacing="-1.5" fill="#2E2E38">Building what</text>
+<text x="54" y="196" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="52" letter-spacing="-1.5" fill="#2E2E38">shouldn&#39;t exist <tspan fill="#B893C7">yet.</tspan></text>
+<text x="56" y="236" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" letter-spacing="3" fill="#8A8A9C">AI SYSTEMS&#160;&#160;&#183;&#160;&#160;LLM RESEARCH&#160;&#160;&#183;&#160;&#160;DEVELOPER INFRASTRUCTURE</text>
+<circle cx="800" cy="90" r="4" fill="#B893C7"/>
+<circle cx="820" cy="90" r="4" fill="#6D8FD6"/>
+<circle cx="840" cy="90" r="4" fill="#2E2E38"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg width="900" height="90" viewBox="0 0 900 90" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Build. Experiment. Ship.">
+<rect width="900" height="90" fill="#FCF9FB"/>
+<line x1="2" y1="2" x2="898" y2="2" stroke="#E6E1EC"/>
+<text x="450.0" y="44" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" letter-spacing="6" fill="#2E2E38">BUILD. &#160; EXPERIMENT. &#160; SHIP.</text>
+<text x="450.0" y="70" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" letter-spacing="2" fill="#8A8A9C">INDEPENDENT BUILDER &#183; AI SYSTEMS &#183; RESEARCH &#183; PRODUCTS</text>
+</svg>

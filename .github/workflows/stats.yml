@@ -28,14 +28,17 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
         run: python3 .github/scripts/generate_stats_card.py
 
-      - name: Commit updated card
+      - name: Generate banners
+        run: python3 .github/scripts/generate_banners.py
+
+      - name: Commit updated assets
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if ! git diff --quiet -- assets/stats.svg; then
-            git add assets/stats.svg
-            git commit -m "chore: refresh stats card"
+          git add assets/
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh profile assets"
             git push
           else
-            echo "No changes to stats card."
+            echo "No changes to assets."
           fi
